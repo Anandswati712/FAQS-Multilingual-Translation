@@ -22,7 +22,7 @@ A Django-based REST API for storing, managing, and retrieving FAQs with multi-la
 ✅ Supports database caching for optimized performance.  
 ✅ RESTful API with Django REST Framework (DRF).  
 ✅ Dockerized setup for easy deployment.  
-✅ Supports PostgreSQL, MySQL, and SQLite.  
+✅ Supports PostgreSQL.  
 
 ---
 
