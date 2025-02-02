@@ -30,5 +30,5 @@ A Django-based REST API for storing, managing, and retrieving FAQs with multi-la
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/Anandswati712/faq-multilingual-translation.git  
+git clone https://github.com/Anandswati712/FAQS-Multilingual-Translation.git
 
