@@ -110,8 +110,7 @@ multilingual-faq-api/
 
 Modify `settings.py` to customize:  
 - Allowed hosts: `ALLOWED_HOSTS`  
-- Database settings  
-- CORS support  
+- Database settings 
 - Translation settings  
 
 ---
